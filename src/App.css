@@ -1,0 +1,13 @@
+/* Broke But Functional - Custom animations and app styles */
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 15px -3px rgba(34, 229, 101, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 25px 2px rgba(34, 229, 101, 0.5);
+  }
+}
+
+.pulse-glow {
+  animation: pulseGlow 2.5s infinite ease-in-out;
+}
