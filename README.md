@@ -5,4 +5,4 @@ A modern, high-precision personal finance web application and interactive decisi
 
 Built for hackathon evaluation and automated AI evaluator bots with **zero authentication**, **zero backend dependencies**, **deterministic financial logic**, and **browser persistence**.
 
-Deloyed on:-expense-tracker-and-analyst.vercel.app 
+Deloyed on: [Vercel-Link](https://expense-tracker-and-analyst.vercel.app/)
